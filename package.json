@@ -5,5 +5,11 @@
   "main": "index.js",
   "repository": "https://gitlab.com/gefalko/gepick-index.git",
   "author": "GeFalko",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
 }
