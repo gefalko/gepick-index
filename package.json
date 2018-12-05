@@ -1,0 +1,9 @@
+{
+  "name": "gepick-index",
+  "version": "1.0.0",
+  "description": "Main page of gepick.com",
+  "main": "index.js",
+  "repository": "https://gitlab.com/gefalko/gepick-index.git",
+  "author": "GeFalko",
+  "license": "MIT"
+}
